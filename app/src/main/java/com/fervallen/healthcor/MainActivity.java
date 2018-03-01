@@ -8,7 +8,7 @@ import android.webkit.WebViewClient;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String APP_URL = "http://fervallen.com/healthcor";;
+    private static final String APP_URL = "https://fervallen.com/healthcor";;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
